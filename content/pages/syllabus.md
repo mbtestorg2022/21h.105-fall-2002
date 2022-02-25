@@ -19,6 +19,10 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
  
 
+{{< resource 5d8eb3ac-41bc-4b89-9e96-be8dd2572b77 >}}
+
+ 
+
 The success of this class depends on the active participation of all students. Classroom participation (20%) represents a substantial portion of the grade, and will be evaluated in terms of preparation, participation in large and small group discussion, active listening, collaboration, and overall contributions to the class experience during the term. Needless to say, if you do not attend a class it is impossible for you to contribute to it. All students will do a short presentation (10%) about a document that you find that relates to the readings for a particular class. Signups will follow.
 
 Writing assignments in this subject are frequent. Everyone will write three 3-5 pp. essays (15% each), of which at least one must be revised. In addition, each student will write a longer 8-10 pp. essay (20%) on an additional work or works not on the syllabus. Various preparatory writing exercises (5%) will help students develop a topic, a bibliography, and an argument in advance of the final paper itself.
