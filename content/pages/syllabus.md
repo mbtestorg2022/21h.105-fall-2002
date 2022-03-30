@@ -3,14 +3,25 @@ content_type: page
 title: Syllabus
 uid: 5839a79b-2afc-58a3-f3c1-0ea8427f97c0
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Requirements
-------------
+## Requirements
+
+ 
+
+{{< resource_link edbf4474-de9b-c16a-ae97-f1002bcc4d6b "Third Writing Assignment" >}}
+
+ 
+
+{{< resource 24d76a3d-9644-90bb-bb15-8038c3a90d95 >}}
+
+ 
+
+{{< resource 5d8eb3ac-41bc-4b89-9e96-be8dd2572b77 >}}
+
+ 
 
 The success of this class depends on the active participation of all students. Classroom participation (20%) represents a substantial portion of the grade, and will be evaluated in terms of preparation, participation in large and small group discussion, active listening, collaboration, and overall contributions to the class experience during the term. Needless to say, if you do not attend a class it is impossible for you to contribute to it. All students will do a short presentation (10%) about a document that you find that relates to the readings for a particular class. Signups will follow.
 
