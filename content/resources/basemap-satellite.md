@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://mbtest-2021-07-30ab.s3.amazonaws.com/courses/21h-105-american-classics-fall-2002/basemap-satellite.png
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-105-american-classics-fall-2002/basemap-satellite.png
 file_type: image/png
 image_metadata:
   caption: ''
@@ -11,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: basemap-satellite.png
-uid: 5d8eb3ac-41bc-4b89-9e96-be8dd2572b77
+uid: 0ece7169-4390-44be-b050-6a0a42fe0ce4
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -4,6 +4,11 @@ description: "Selections based on Abraham Lincoln's Selected Speeches and Writin
   \ (Vintage, 1992).\r\n\r\n"
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-105-american-classics-fall-2002/24d76a3d964490bbbb158038c3a90d95_am_classics_linadings_10_02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 parent_uid: 8fe75aea-668a-61ef-1462-019c26e9db2d
 resourcetype: Document
 title: Selections for Readings by Abraham Lincoln
